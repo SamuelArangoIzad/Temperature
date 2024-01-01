@@ -1,39 +1,39 @@
 # Temperature
 
-**Descripción:**
-Temperature es una herramienta diseñada para obtener rápidamente la temperatura promedio, máxima, mínima, el promedio por encima del máximo y el promedio por debajo del mínimo de un área específica. Esto permite al usuario registrar las temperaturas directamente.
+**Description:**
+Temperature is a tool designed to quickly get the average, maximum, minimum, average above maximum, and average below minimum temperature for a specific area. This allows the user to record temperatures directly.
 
-## Tecnologías Utilizadas
-- **C++:** Temperature está desarrollado en C++ para garantizar eficiencia y rendimiento en entornos de consola.
-- **Librerías Utilizadas:**
-  - `#include <iostream>`
-  - `#include <string>`
-  - `#include <sstream>`
-  - `#include <vector>`
-  - `#include <algorithm>`
-  - `#include <limits>`
+## Technologies Used
+- **C++:** Temperature is developed in C++ to ensure efficiency and performance in console environments.
+- **Libraries used:**
+  - '#include<iostream>'
+  - '#include<string>'
+  - '#include<sstream>'
+  - '#include<vector>'
+  - '#include<algorithm>'
+  - '#include<limits>'
 
-## Enfoque de Desarrollo
+## Development Approach
 
-**1. Obtención y Registro de Temperaturas:**
-   - Permite al usuario ingresar directamente las temperaturas para el área específica.
+**1. Temperature Collection and Recording:**
+   - Allows the user to directly enter the temperatures for the specific area.
 
-**2. Cálculos de Temperatura:**
-   - Realiza cálculos automáticos para obtener la temperatura promedio, máxima, mínima, promedio por encima del máximo y promedio por debajo del mínimo.
+**2. Temperature Calculations:**
+   - Performs automatic calculations to get the average, maximum, minimum, average above maximum, and average below minimum temperature.
 
-**3. Interfaz de Consola:**
-   - Utiliza la consola para mostrar de manera clara y organizada los resultados de temperatura.
+**3. Console Interface:**
+   - Use the console to display temperature results in a clear and organized manner.
 
-## Comenzar
-Para utilizar Temperature y obtener información sobre las temperaturas de una área específica, sigue estos pasos:
+## Get Started
+To use Temperature to learn about temperatures in a specific area, follow these steps:
 
-1. **Clona este repositorio en tu máquina local usando Git.**
-2. Asegúrate de tener un **entorno de desarrollo C++ configurado.**
-3. Abre el proyecto en tu **IDE de preferencia.**
-4. **Compila y ejecuta el programa** para ingresar y analizar las temperaturas.
+1. **Clone this repository to your local machine using Git.**
+2. **Make sure you have a C++ development environment set up.**
+3. .**Open the project in your preferred IDE..**
+4. **Compile and run the program** .**to enter and analyze temperatures..**
 
-## Licencia
-Este proyecto está bajo la **Licencia MIT.** Eres libre de usar y modificar el código según tus necesidades.
+## License
+This project is licensed under the MIT License.** You are free to use and modify the code as per your needs.
 
-## Agradecimientos
-Temperature se crea para facilitar la obtención y análisis rápido de datos de temperatura. ¡Siéntete libre de contribuir, mejorar la funcionalidad y agregar nuevas características para enriquecer la experiencia! Tu retroalimentación es valiosa.
+## Acknowledgments
+Temperature is created to make it easy to quickly obtain and analyze temperature data. Feel free to contribute, improve functionality, and add new features to enrich the experience! Your feedback is valuable.
