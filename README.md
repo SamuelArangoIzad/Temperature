@@ -29,7 +29,7 @@ To use Temperature to learn about temperatures in a specific area, follow these 
 
 1. **Clone this repository to your local machine using Git.**
 2. **Make sure you have a C++ development environment set up.**
-3. .**Open the project in your preferred IDE..**
+3. .**Open the project in your preferred IDE.**
 4. **Compile and run the program** .**to enter and analyze temperatures..**
 
 ## License
