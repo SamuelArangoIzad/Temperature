@@ -6,12 +6,12 @@ Temperature is a tool designed to quickly get the average, maximum, minimum, ave
 ## Technologies Used
 - **C++:** Temperature is developed in C++ to ensure efficiency and performance in console environments.
 - **Libraries used:**
-  - '#include<iostream>'
-  - '#include<string>'
-  - '#include<sstream>'
-  - '#include<vector>'
-  - '#include<algorithm>'
-  - '#include<limits>'
+  - '#include iostream'
+  - '#include string'
+  - '#include sstream'
+  - '#include vector'
+  - '#include algorithm'
+  - '#include limits'
 
 ## Development Approach
 
